@@ -10,7 +10,7 @@ The rit create formula command use the folder `/templates/create_formula`
 to list the languages options. If you like to edit some language template
 or to add more language to create formula command please access
 the following tutorial:
-[Languages Template Tutorial](https://github.com/ZupIT/ritchie-templates/tree/main/templates/create_formula)
+[Languages Template Tutorial](https://github.com/GuillaumeFalourd/ritchie-templates/tree/main/templates/create_formula)
 
 ## Full Documentation
 
@@ -18,7 +18,7 @@ the following tutorial:
 
 ## Contributing
 
-[Contribute to the Ritchie community](https://github.com/ZupIT/ritchie-templates/blob/main/CONTRIBUTING.md)
+[Contribute to the Ritchie community](https://github.com/GuillaumeFalourd/ritchie-templates/blob/main/CONTRIBUTING.md)
 
 ## Zup Products
 
