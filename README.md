@@ -1,6 +1,6 @@
-<img width="940" alt="title" src="https://user-images.githubusercontent.com/22433243/117589773-15e03c00-b102-11eb-8a42-2015656831f8.png">
-
 # Ritchie's formulas templates
+
+<img width="940" alt="title" src="https://user-images.githubusercontent.com/22433243/117589773-15e03c00-b102-11eb-8a42-2015656831f8.png">
 
 This repository contains templates which can be used to create new formulas with [ritchie-cli](https://github.com/ZupIT/ritchie-cli).
 
